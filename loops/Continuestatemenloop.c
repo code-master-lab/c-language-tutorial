@@ -7,7 +7,7 @@ int main(){
         {
             // i is an factor of n
               continue;  //Continue means skip that round [Iteration fancy words] if the condition is correct and And break means  finish the loop
-        } 
+        }  
         printf(" %d",i);
 
 
