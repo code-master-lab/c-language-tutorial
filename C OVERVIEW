@@ -1,0 +1,47 @@
+C Language Tutorial
+
+Overview
+
+Welcome to the C Language Tutorial repository! This project is designed to help beginners and intermediate learners understand the fundamentals of the C programming language through well-structured examples, explanations, and exercises.
+
+Features
+
+Step-by-step tutorials covering the basics to advanced concepts
+
+Code examples with clear explanations
+
+Hands-on exercises to practice coding
+
+Best practices and tips for efficient coding
+
+Resources and references for further learning
+
+Topics Covered
+
+Introduction to C
+
+Data Types and Variables
+
+Operators and Expressions
+
+Control Statements (if-else, loops, switch-case)
+
+Functions and Recursion
+
+Arrays and Pointers
+
+Strings and String Manipulation
+
+Structures and Unions
+
+File Handling
+
+Dynamic Memory Allocation
+
+Getting Started
+
+Prerequisites
+
+A C compiler (GCC, Clang, or MSVC)
+
+A text editor or IDE (VS Code, Code::Blocks, or Dev-C++)
