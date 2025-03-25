@@ -16,7 +16,7 @@ int main() {
     // Calculate n!
     for (int i = 2; i <= n; i++) {
         nfact = nfact * i;
-    }
+    } 
 
     // Calculate r!
     for (int i = 2; i <= r; i++) {
