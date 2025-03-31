@@ -1,1 +1,1 @@
-hi
+"This repository contains a collection of C language programs and problem solutions. It is designed to help beginners and intermediate learners understand the fundamentals of C programming through practical examples. If you find any mistakes in the code, please feel free to correct them and send me a pull request."
