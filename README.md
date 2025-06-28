@@ -18,7 +18,7 @@ I have **learned C language fully** and practiced **every concept**, uploading t
 
 I learned C language completely from this **highly recommended playlist:**
 
-🎥 **[C Language Full Playlist by CodeWithHarry](https://youtube.com/playlist?list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt&si=du8z94SK4JcJQ4nr)**
+🎥 **[C Language Full Playlist by College wala](https://youtube.com/playlist?list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt&si=du8z94SK4JcJQ4nr)**
 
 This playlist helped me understand every concept with clarity, and I am uploading everything I learned here.
 
